@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://github.com/tatozan/react-js-proyecto-final">
+  <a href="https://github.com/tatozan/react-js-desafio-2">
     <img src="https://openmoji.org/data/color/svg/1F6D2.svg" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">E-Commerce-React-App</h3>
@@ -101,7 +101,6 @@ Para la construcción de este proyecto se utilizaron múltiples conceptos, en co
 * **Expresiones Regulares**: _Se implementaron para la validación de los datos ingresados por el usaurio._
 * **GIT**: _Indispensable para la prueba y testeo de nuevas funcionalidades._
 * **CSS**: _Se utilizó para darle estilo propio a algunos componentes._
-* **Environmental variables**: _Se utilizaron para proteger información sensible._
 
 <br />
 
@@ -130,16 +129,16 @@ npm -v
 ### Instalación
 Primero vas a necesitar descargar y/o clonar el repositorio, para ello, seguí los pasos que se detallan a continuación:
 
-* Clone _'https://github.com/tatozan/react-js-proyecto-final.git'_ repository from GitHub
+* Clone _'https://github.com/tatozan/react-js-desafio-2.git'_ repository from GitHub
 
   ```bash
-  git clone https://github.com/tatozan/react-js-proyecto-final.git
+  git clone https://github.com/tatozan/react-js-desafio-2.git
   ```
 
    _O USANDO SSH_
 
   ```bash
-  git clone git@github.com:tatozan/react-js-proyecto-final.git
+  git clone git@github.com:tatozan/react-js-desafio-2.git
   ```
 
 * Instalar las dependencias<br/>
